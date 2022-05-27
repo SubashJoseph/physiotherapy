@@ -203,6 +203,9 @@ hr {
     border: 2px solid white;
     box-sizing: border-box;
 }
+#service-text {
+    text-align: center;
+}
 /*footer*/
 footer {
     height: 150px;
