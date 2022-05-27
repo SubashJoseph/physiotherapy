@@ -69,6 +69,16 @@ animation-name: physiotherapy-zoom;
 animation-duration: 5s;
 animation-fill-mode: forwards;
 }
+#gym-girl {
+    height: 600px;
+    width: 100%;
+    background: url('../images/gym-girl.jpeg') no-repeat center center;
+
+animation-name: physiotherapy-zoom;
+animation-duration: 5s;
+animation-fill-mode: forwards;
+}
+
 @keyframes physiotherapy-zoom {
     from{
         transform: scale(1);
@@ -199,4 +209,21 @@ footer {
     margin: 1%;
     padding: 5%;
     color: black;
+}
+
+/* media quieries */
+ @media screen and (max-width: 1200px){
+     #uses {
+         width: 65%;
+         height: 1200px;
+         margin: 0 auto;
+     }   
+ }
+#welcome {
+    padding: 30% 0;
+    margin: 0;
+}
+#left-about, #right-about {
+    width: 100%;
+    float: left;
 }
