@@ -48,7 +48,15 @@
         <li>This project was tested on the <a href= "https://validator.w3.org/#validate_by_uri"> validator tool</a></li>
     </ul>
 <h1>Deployment</h1>
-<p>This project was deployed on to the Git hub</p>
+    <p>I deployed this website by using GitPages and following the below steps:</p> 
+    <ol>
+        <li>Log in to GitHub</li>
+        <li>In your Repository section, select the project repository that you want to deploy</li>
+        <li>In the menu located at the top of this section, click 'Settings'</li>
+        <li>Select 'Pages' on the left-hand menu - this is around halfway down</li>
+        <li>In the source section, select branch 'Master' and save</li>
+        <li>The page is then given a site URL which you will see above the source section</li>
+    </ol>
 <h1>Credits</h1>
 <p>This projects media is from few webites and contact section of the code was referred by <a href=https://www.w3schools.com/html/default.asp> w3school</a></p>
 </html>
