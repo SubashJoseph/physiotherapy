@@ -27,6 +27,8 @@
 <li>This project's page is divided into three sections. The top section is logo section and the navigational bar.</li>
 <li>The second section is manily adreessing the main contect of the each page</li>
 <li>the third section is the footage section which carries the social media secions.</li>
+<li>Logo and navigation bar is present on all three pages</li>
+<li>Contact form is added to the last page</li>
     </ul>
 <h1>Languages used</h1>
     <ul>
