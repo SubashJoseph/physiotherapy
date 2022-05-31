@@ -39,16 +39,15 @@
     </section>
 
     <div class="container">
-        <form action="action_page.php">
-
+        <form action="https://formdump.codeinstitute.net/" method="POST" target="_blank">
             <label for="fname">First Name</label>
-            <input type="text" id="fname" name="firstname" placeholder="Your name..">
+            <input type="text" id="firstname" name="firstname" placeholder="Your name.." required>
 
             <label for="lname">Last Name</label>
-            <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+            <input type="text" id="lastname" name="lastname" placeholder="Your last name.." required>
 
             <label for="county">County</label>
-            <select id="county" name="county">
+            <select id="county" name="county" required>
                 <option value="dublin">Dublin</option>
                 <option value="cork">Cork</option>
                 <option value="waterford">Waterford</option>
@@ -56,10 +55,9 @@
             </select>
 
             <label for="subject">Subject</label>
-            <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+            <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px" required></textarea>
 
             <input type="submit" value="Submit">
-
         </form>
     </div>
     <footer>
