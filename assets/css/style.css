@@ -381,3 +381,12 @@ hr {
         padding: 0 20px;
     }
 }
+@media screen and (max-width: 1200px) {
+    #service-gallary > div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+        margin: 0 auto;
+    }
+}
