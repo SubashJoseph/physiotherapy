@@ -7,8 +7,14 @@
 <h1>Homecare Physiotherapy</h1>
 <p> <a href= "https://subashjoseph.github.io/physiotherapy/"> Visit the website here</a></li></p>
 <h1>Introduction</h1>
-    <p><strong>Homecare Physiotherapy</strong> is providing phyiotherapy home care services to the patients in Ireland.</p>
+    <p><strong>Homecare Physiotherapy </strong>is created to provide physiotherapy home care services for people interested in rehabilatation. This website was made for educational purposes only. Homecare physiotherapy is providing phyiotherapy home care services to the patients in Ireland.</p>
     <p>This is mainly aiming for those who have came back from the hospitals and also the older people</p>
+    <p>This website is made up of the following sections:</p>
+        <ul>
+            <li>Home</li>
+            <li>Services</li>
+            <li>Contact</li>
+        </ul>
 <h1>User Experiance</h1>
     <h2>Target Audiance</h2>
         <ul>
