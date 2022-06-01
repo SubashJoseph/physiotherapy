@@ -55,6 +55,8 @@
     <ul>
         <li>This project was tested on the <a href= "https://validator.w3.org/#validate_by_uri"> validator tool</a></li>
     </ul>
+    <img src="assets/images/testing-screenshot.png">
+    <img src="assets/images/lighthouse-screenshot.png">
 <h1>Deployment</h1>
     <p>I deployed this website by using GitPages and following the below steps:</p> 
     <ol>
