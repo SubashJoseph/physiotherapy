@@ -19,9 +19,13 @@ h1 h2 {
     color: black;
 }
 
+section {
+    text-align: center;
+}
+
 #logo {
     float: left;
-    font-size: 280%;
+    font-size: 4rem;
     margin-left: 30px;
 }
 
@@ -78,10 +82,43 @@ h1 h2 {
 }
 
 #gym-girl {
-    height: 600px;
-    width: 100%;
     background: url('../images/gym-girl.jpg') no-repeat center center;
     opacity: 0.2;
+    min-height: 600px;
+    max-width: 100%;
+    height: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.page-title {
+    width: 100%;
+    position: absolute;
+    top: 20%;
+    text-align: center;
+}
+
+.page-title h2 {
+    font-size: 3.8rem;
+}
+
+.page-title h3 {
+    font-size: 2.5rem;;
+}
+
+.service-bg {
+    opacity: 0.6;
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: block;
+    /* max-width:230px;
+    max-height:95px; */
+    width: auto;
+    height: auto;
+    object-fit: cover;
 }
 
 #fitness-girl {
@@ -343,7 +380,7 @@ input[type=submit]:hover {
     float: left;
     padding: 0;
 }
-#uses > div {
+#uses, #service-gallery> div {
     width: 100%;
     clear: both;
     height: 150px;
@@ -388,5 +425,15 @@ hr {
         height: 150px;
         padding: 0;
         margin: 0 auto;
+    }
+}
+
+@media screen and (min-width: 768px) {
+	h2 {
+		font-size: 30px;
+	}
+
+    .page-title h2 {
+        font-size: 3rem;
     }
 }
