@@ -21,14 +21,14 @@
 </ul>
 <h1>Features</h1>
     <ul>
-        <li><strong>Homecare Physiotherapy</strong> is a three page project with home section explaines about the company.she attended the group session ex's today</li>
-<li>The second page of the project mainly addressing the services which is offered by the company</li>
-<li>Third page is the contact section</li>
-<li>This project's page is divided into three sections. The top section is logo section and the navigational bar.</li>
-<li>The second section is manily adreessing the main contect of the each page</li>
-<li>the third section is the footage section which carries the social media secions.</li>
-<li>Logo and navigation bar is present on all three pages</li>
-<li>Contact form is added to the last page</li>
+        <li><strong>Homecare Physiotherapy</strong> is a three page project with a Home page, services page and a contact page</li>
+        <li>The navbar is placed on top of a responsive image which acts as a header, when viewed on smaller screens</li>
+        <li>The main section of the home page explains the uses of the Home care physiotherapy</li>
+        <li>The main section divided into three sections with an image placed at the centre</li>
+        <li>The images and contents are minimal so that the uses will contact to get more details</li>
+        <li>the third section is the footage section which carries the social media secions.</li>
+        <li>Logo and navigation bar is present on all three pages</li>
+        <li>Contact form is added to the last page</li>
     </ul>
 <h1>Languages used</h1>
     <ul>
